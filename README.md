@@ -6,6 +6,9 @@
 
 一个原生 macOS 菜单栏应用，用来查看 Codex 使用情况。
 
+![应用面板截图](docs/assets/app-panel.png)
+![GitHub 页面预览](docs/assets/github-preview.png)
+
 ### 功能特性
 
 - 菜单栏显示今日 USD 花费
@@ -73,6 +76,9 @@ resources/
 ## English
 
 A native macOS menu bar app for tracking Codex usage.
+
+![App panel screenshot](docs/assets/app-panel.png)
+![GitHub preview](docs/assets/github-preview.png)
 
 ### Features
 
